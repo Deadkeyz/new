@@ -1,0 +1,10 @@
+{
+    "name": "Sharingan Jetton",
+    "description": "Genjustu on TON",
+    "icon": "https://raw.githubusercontent.com/Deadkey2/K0/main/4logo.png",
+    "items": [
+        {
+            "name": "ton_addr"
+        }
+    ]
+}
